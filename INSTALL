@@ -1,0 +1,9 @@
+Building CRACKERS
+
+See doc/readme-qt.rst for instructions on building CRACKERS QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CRACKERS.
+
+See doc/build-*.txt for instructions on building crackersd,
+the intended-for-services, no-graphical-interface, reference
+implementation of CRACKERS.
